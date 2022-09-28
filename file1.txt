@@ -6,3 +6,4 @@
 192.168.1.167   redhatclient    broker2
 192.168.1.167   redhatclient    broker2
 192.168.1.167   redhatclient    broker2
+This is the end of the file
