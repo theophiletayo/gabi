@@ -3,3 +3,6 @@
 192.168.1.151   ansiblecontrol.com      control
 192.168.1.227   redhatexam.myfiosgateway.com    broker1
 192.168.1.167   redhatclient    broker2
+192.168.1.167   redhatclient    broker2
+192.168.1.167   redhatclient    broker2
+192.168.1.167   redhatclient    broker2
